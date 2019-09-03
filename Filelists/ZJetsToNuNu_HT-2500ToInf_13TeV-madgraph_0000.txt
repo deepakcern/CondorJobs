@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/ExoPieElementTuples_20190821/MC/ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/190822_053804/0000/ExoPieElementTuples_1.root
