@@ -2,7 +2,7 @@ import os, datetime
 folder="Filelists"
 #folder='unfinished_jobs'
 test=False
-maxfilesperjob=25
+maxfilesperjob=200
 
 listfiles = [f for f in os.listdir(folder) if f.endswith('.txt')]
 
@@ -24,7 +24,7 @@ def submitjob(jobcount,fname,tempfile):
             submittemp.write(line)                        
     submitfile.close()       
     
-    submittemp.write("arguments = "+tempfile.split('/')[1]+" "+fname.split('.')[0]+" "+str(jobcount)+'\nqueue')
+    submittemp.write("arguments = "+tempfile.split('/')[1]+" "+fname.split('.')[0]+" "+str(jobcount)+"  "+tempfile.split('/')[1].replace('.txt','.root')+'\nqueue')
     #submittemp.write("transfer_output_remaps = \"BROutput.root = BR_Outputs/Output_"+fname.split('.')[0]+"_"+str(jobcount)+".root\"\nqueue")    
     submittemp.close()
     

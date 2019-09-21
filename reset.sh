@@ -1,1 +1,1 @@
-rm -rf BROutputs/ log/ error/ output/ data/ tempFilelists*
+rm -rf BROutputs/ log/ error/ output/ data/

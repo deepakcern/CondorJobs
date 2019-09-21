@@ -18,10 +18,10 @@ cd $CMSSW_BASE
 cmsenv
 cd ../../
 
-python SkimTree.py -F -i "$1"
+python SkimTree.py -y 2017 -F -i "$1"
 
-if [ -e "SkimmedTree.root" ]; then
-  until xrdcp -f SkimmedTree.root root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/2017_skimmedFiles/uscmsTest/"$2"/SkimmedTree_"$3".root; do 
+if [ -e "$4" ]; then
+  until xrdcp -f "$4" root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/2017_skimmedFiles/V0/MC/"$4"; do 
     sleep 60
     echo "Retrying"
   done
@@ -30,7 +30,7 @@ fi
 
 exitcode=$?
 
-if [ ! -e "SkimmedTree.root" ]; then
+if [ ! -e "$4" ]; then
   echo "Error: The python script failed, could not create the output file."
   
 fi
