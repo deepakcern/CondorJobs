@@ -26,7 +26,7 @@ def submitjob(count,txtfile):
 
     #count+=1
 
-path='FailedJobs_files/'
+path='Filelists/'
 
 files=glob(path+'/*txt')
 
