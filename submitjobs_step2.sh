@@ -1,1 +1,1 @@
-nohup python -u submit_AnalyserJobs.py.py &> logsubmit.txt &
+nohup python -u MultiSubmit_step2.py &> logsubmit.txt &
