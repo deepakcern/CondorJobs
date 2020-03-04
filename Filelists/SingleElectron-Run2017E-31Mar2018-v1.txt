@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_merged_V1/SingleElectron-Run2017E-31Mar2018-v1.root

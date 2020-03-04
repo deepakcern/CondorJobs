@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_raman_merged/ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8.root
