@@ -1,5 +1,4 @@
 universe = vanilla
-request_memory = 8192
 use_x509userproxy = true
 executable = runAnalysis_step2.sh
 should_transfer_files = YES
