@@ -3,7 +3,8 @@ from glob import glob
 
 test=False
 
-count=1
+count=0
+os.system('mkdir error  log  output')
 
 def submitjob(count,txtfile):
     #global count
