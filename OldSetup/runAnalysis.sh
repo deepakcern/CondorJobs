@@ -21,7 +21,7 @@ cd ../../
 python SkimTree.py -y 2017 -F -i "$1"
 
 if [ -e "$4" ]; then
-  until xrdcp -f "$4" root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.04_2017"$4"; do 
+  until xrdcp -f "$4" root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/2017_skimmedFiles/V0/MC/"$4"; do 
     sleep 60
     echo "Retrying"
   done

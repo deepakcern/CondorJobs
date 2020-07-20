@@ -1,1 +1,1 @@
-rm -rf BROutputs/ log/ error/ output/ data/
+rm -rf  log/ error/ output/ data/  

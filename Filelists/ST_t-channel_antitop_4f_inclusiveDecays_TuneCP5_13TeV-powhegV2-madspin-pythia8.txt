@@ -1,1 +1,0 @@
-root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_raman_merged/ST_t-channel_antitop_4f_inclusiveDecays_TuneCP5_13TeV-powhegV2-madspin-pythia8.root

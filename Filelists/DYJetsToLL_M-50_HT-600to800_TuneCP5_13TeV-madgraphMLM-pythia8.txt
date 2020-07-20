@@ -1,1 +1,0 @@
-root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_merged_V1/DYJetsToLL_M-50_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8.root

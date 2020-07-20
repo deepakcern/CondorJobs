@@ -1,1 +1,0 @@
-root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_merged_V1/ZJetsToNuNu_HT-1200To2500_13TeV-madgraph.root

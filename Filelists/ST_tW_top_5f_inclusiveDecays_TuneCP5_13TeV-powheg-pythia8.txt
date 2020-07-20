@@ -1,1 +1,0 @@
-root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_raman_merged/ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8.root

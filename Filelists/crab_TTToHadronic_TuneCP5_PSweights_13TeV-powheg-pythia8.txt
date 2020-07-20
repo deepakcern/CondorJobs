@@ -1,1 +1,0 @@
-root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/V0_fixedjetID_raman_merged/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8.root
