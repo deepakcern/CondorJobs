@@ -14,14 +14,19 @@ source $VO_CMS_SW_DIR/cmsset_default.sh
 # Setup framework from sandbox
 cmssw_setup sandbox-CMSSW_10_3_0-4cef61e.tar.bz2
 
+export X509_USER_PROXY=$5
+voms-proxy-info -all
+voms-proxy-info -all -file $5
+
 cd $CMSSW_BASE
 cmsenv
 cd ../../
 
-python SkimTree.py -y 2017 -F -i "$1"
+#python SkimTree.py -y 2017 -F -i "$1"
+python puGetter.py -y 2017 -F -i "$1"
 
 if [ -e "$4" ]; then
-  until xrdcp -f "$4" root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.04_2017"$4"; do 
+  until xrdcp -f "$4" root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/puTestFiles/"$4"; do 
     sleep 60
     echo "Retrying"
   done

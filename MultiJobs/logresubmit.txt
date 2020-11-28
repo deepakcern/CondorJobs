@@ -1,0 +1,93 @@
+nohup: ignoring input
+
+===============================
+Submitting jobs #0: Filelists_failed/MET-Run2017B-31Mar2018-v1_0002_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311311.
+
+===============================
+Submitting jobs #1: Filelists_failed/SingleElectron-Run2017F-31Mar2018-v1_0004_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311312.
+
+===============================
+Submitting jobs #2: Filelists_failed/MET-Run2017C-31Mar2018-v1_0001_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311313.
+
+===============================
+Submitting jobs #3: Filelists_failed/crab_SingleElectron-Run2017E-31Mar2018-v1_200928_085556_0000_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311314.
+
+===============================
+Submitting jobs #4: Filelists_failed/MET-Run2017F-31Mar2018-v1_0003_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311315.
+
+===============================
+Submitting jobs #5: Filelists_failed/SingleElectron-Run2017E-31Mar2018-v1_0003_19.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311316.
+
+===============================
+Submitting jobs #6: Filelists_failed/MET-Run2017E-31Mar2018-v1_0005_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311317.
+
+===============================
+Submitting jobs #7: Filelists_failed/SingleElectron-Run2017B-31Mar2018-v1_0001_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311318.
+
+===============================
+Submitting jobs #8: Filelists_failed/SingleElectron-Run2017E-31Mar2018-v1_0001_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311319.
+
+===============================
+Submitting jobs #9: Filelists_failed/MET-Run2017C-31Mar2018-v1_0002_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311320.
+
+===============================
+Submitting jobs #10: Filelists_failed/SingleElectron-Run2017F-31Mar2018-v1_0005_19.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311321.
+
+===============================
+Submitting jobs #11: Filelists_failed/SingleElectron-Run2017F-31Mar2018-v1_0000_20.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311322.
+
+===============================
+Submitting jobs #12: Filelists_failed/MET-Run2017E-31Mar2018-v1_0004_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 14311323.
+Total number of jobs:  13

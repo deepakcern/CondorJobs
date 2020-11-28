@@ -1,0 +1,13 @@
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017B-31Mar2018-v1_0002_17.* Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017C-31Mar2018-v1_0001_13.* Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017C-31Mar2018-v1_0002_5.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017E-31Mar2018-v1_0004_12.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017E-31Mar2018-v1_0005_4.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/MET-Run2017F-31Mar2018-v1_0003_12.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017B-31Mar2018-v1_0001_17.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017E-31Mar2018-v1_0001_1.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017E-31Mar2018-v1_0003_19.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017F-31Mar2018-v1_0000_20.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017F-31Mar2018-v1_0004_8.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/SingleElectron-Run2017F-31Mar2018-v1_0005_19.*  Filelists_failed/
+cp tempFilelists_2020-10-26-14-56-49/crab_SingleElectron-Run2017E-31Mar2018-v1_200928_085556_0000_7.* Filelists_failed/

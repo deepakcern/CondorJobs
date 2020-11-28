@@ -1,0 +1,716 @@
+nohup: ignoring input
+
+===============================
+Submitting jobs #0: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_10.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327744.
+
+===============================
+Submitting jobs #1: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_11.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327745.
+
+===============================
+Submitting jobs #2: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327746.
+
+===============================
+Submitting jobs #3: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327747.
+
+===============================
+Submitting jobs #4: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_14.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327748.
+
+===============================
+Submitting jobs #5: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_15.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327749.
+
+===============================
+Submitting jobs #6: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_16.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327750.
+
+===============================
+Submitting jobs #7: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327751.
+
+===============================
+Submitting jobs #8: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_18.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327752.
+
+===============================
+Submitting jobs #9: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_19.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327753.
+
+===============================
+Submitting jobs #10: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327754.
+
+===============================
+Submitting jobs #11: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_20.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327755.
+
+===============================
+Submitting jobs #12: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327756.
+
+===============================
+Submitting jobs #13: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327757.
+
+===============================
+Submitting jobs #14: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327758.
+
+===============================
+Submitting jobs #15: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327759.
+
+===============================
+Submitting jobs #16: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_6.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327760.
+
+===============================
+Submitting jobs #17: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327761.
+
+===============================
+Submitting jobs #18: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327762.
+
+===============================
+Submitting jobs #19: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0000_9.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327763.
+
+===============================
+Submitting jobs #20: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0001_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327764.
+
+===============================
+Submitting jobs #21: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0001_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327765.
+
+===============================
+Submitting jobs #22: Filelists_v07.04_noJER_TT/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171101_0001_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327766.
+
+===============================
+Submitting jobs #23: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_10.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327767.
+
+===============================
+Submitting jobs #24: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_11.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327768.
+
+===============================
+Submitting jobs #25: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327769.
+
+===============================
+Submitting jobs #26: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327770.
+
+===============================
+Submitting jobs #27: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_14.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327771.
+
+===============================
+Submitting jobs #28: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_15.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327772.
+
+===============================
+Submitting jobs #29: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_16.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327773.
+
+===============================
+Submitting jobs #30: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327774.
+
+===============================
+Submitting jobs #31: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327776.
+
+===============================
+Submitting jobs #32: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327777.
+
+===============================
+Submitting jobs #33: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327778.
+
+===============================
+Submitting jobs #34: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327779.
+
+===============================
+Submitting jobs #35: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327780.
+
+===============================
+Submitting jobs #36: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_6.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327781.
+
+===============================
+Submitting jobs #37: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327782.
+
+===============================
+Submitting jobs #38: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327783.
+
+===============================
+Submitting jobs #39: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0000_9.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327784.
+
+===============================
+Submitting jobs #40: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_10.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327785.
+
+===============================
+Submitting jobs #41: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_11.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327786.
+
+===============================
+Submitting jobs #42: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327787.
+
+===============================
+Submitting jobs #43: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327788.
+
+===============================
+Submitting jobs #44: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_14.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327789.
+
+===============================
+Submitting jobs #45: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_15.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327790.
+
+===============================
+Submitting jobs #46: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_16.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327791.
+
+===============================
+Submitting jobs #47: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327792.
+
+===============================
+Submitting jobs #48: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327793.
+
+===============================
+Submitting jobs #49: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327794.
+
+===============================
+Submitting jobs #50: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327795.
+
+===============================
+Submitting jobs #51: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327796.
+
+===============================
+Submitting jobs #52: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327797.
+
+===============================
+Submitting jobs #53: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_6.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327798.
+
+===============================
+Submitting jobs #54: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327799.
+
+===============================
+Submitting jobs #55: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327800.
+
+===============================
+Submitting jobs #56: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0001_9.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327801.
+
+===============================
+Submitting jobs #57: Filelists_v07.04_noJER_TT/crab_TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_171025_0002_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327802.
+
+===============================
+Submitting jobs #58: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_10.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327803.
+
+===============================
+Submitting jobs #59: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_11.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327804.
+
+===============================
+Submitting jobs #60: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327805.
+
+===============================
+Submitting jobs #61: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327806.
+
+===============================
+Submitting jobs #62: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_14.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327807.
+
+===============================
+Submitting jobs #63: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_15.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327808.
+
+===============================
+Submitting jobs #64: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_16.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327809.
+
+===============================
+Submitting jobs #65: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327810.
+
+===============================
+Submitting jobs #66: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_18.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327811.
+
+===============================
+Submitting jobs #67: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_19.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327812.
+
+===============================
+Submitting jobs #68: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327813.
+
+===============================
+Submitting jobs #69: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_20.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327814.
+
+===============================
+Submitting jobs #70: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327815.
+
+===============================
+Submitting jobs #71: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327816.
+
+===============================
+Submitting jobs #72: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327817.
+
+===============================
+Submitting jobs #73: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327818.
+
+===============================
+Submitting jobs #74: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_6.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327819.
+
+===============================
+Submitting jobs #75: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327820.
+
+===============================
+Submitting jobs #76: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327821.
+
+===============================
+Submitting jobs #77: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0000_9.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327822.
+
+===============================
+Submitting jobs #78: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_10.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327823.
+
+===============================
+Submitting jobs #79: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_11.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327824.
+
+===============================
+Submitting jobs #80: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_12.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327825.
+
+===============================
+Submitting jobs #81: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_13.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327826.
+
+===============================
+Submitting jobs #82: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_14.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327827.
+
+===============================
+Submitting jobs #83: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_15.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327828.
+
+===============================
+Submitting jobs #84: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_16.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327829.
+
+===============================
+Submitting jobs #85: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_17.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327830.
+
+===============================
+Submitting jobs #86: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_18.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327831.
+
+===============================
+Submitting jobs #87: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_19.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327832.
+
+===============================
+Submitting jobs #88: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327833.
+
+===============================
+Submitting jobs #89: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_20.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327834.
+
+===============================
+Submitting jobs #90: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327835.
+
+===============================
+Submitting jobs #91: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327836.
+
+===============================
+Submitting jobs #92: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327837.
+
+===============================
+Submitting jobs #93: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_5.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327838.
+
+===============================
+Submitting jobs #94: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_6.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327839.
+
+===============================
+Submitting jobs #95: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_7.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327840.
+
+===============================
+Submitting jobs #96: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_8.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327841.
+
+===============================
+Submitting jobs #97: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0001_9.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327842.
+
+===============================
+Submitting jobs #98: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0002_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327843.
+
+===============================
+Submitting jobs #99: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0002_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327844.
+
+===============================
+Submitting jobs #100: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0002_3.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327845.
+
+===============================
+Submitting jobs #101: Filelists_v07.04_noJER_TT/crab_TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8_200927_170951_0002_4.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4327846.
+Total number of jobs:  102

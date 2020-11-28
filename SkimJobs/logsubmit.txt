@@ -1,0 +1,30 @@
+nohup: ignoring input
+
+===============================
+Submitting jobs #0: tempFilelists_2020-11-18-05-54-47/crab_ZZ_TuneCP5_13TeV-pythia8_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4358492.
+
+===============================
+Submitting jobs #1: tempFilelists_2020-11-18-05-54-47/crab_WW_TuneCP5_13TeV-pythia8_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4358493.
+
+===============================
+Submitting jobs #2: tempFilelists_2020-11-18-05-54-47/crab_WW_TuneCP5_13TeV-pythia8_2.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4358494.
+
+===============================
+Submitting jobs #3: tempFilelists_2020-11-18-05-54-47/crab_WZ_TuneCP5_13TeV-pythia8_1.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4358495.
+Total number of jobs:  4

@@ -1,0 +1,9 @@
+nohup: ignoring input
+
+===============================
+Submitting jobs #0: Filelists_failed/Output_MET-Run2017F-31Mar2018-v1_211.txt
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 4081369.
+Total number of jobs:  1
