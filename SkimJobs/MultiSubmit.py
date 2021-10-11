@@ -11,6 +11,8 @@ def grouper(n, iterable, fillvalue=None):
 
 def splitTxt(txtfile,dirName,maxFilePerTxt):
     n=maxFilePerTxt
+    if "Run201" in txtfile:
+        n = n * 5
     with open(txtfile) as f:
         newtxt=txtfile.split('/')[-1].replace('.txt','')
         for i, g in enumerate(grouper(n, f, fillvalue=''), 1):
