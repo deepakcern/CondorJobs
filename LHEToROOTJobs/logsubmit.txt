@@ -1,0 +1,1802 @@
+nohup: ignoring input
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p1_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525838.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p1_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525839.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p1_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525840.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p2_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525841.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p2_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525842.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p2_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525843.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525844.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525845.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525846.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525847.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525848.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525849.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525850.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525851.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525852.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525853.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p5_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525854.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525855.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525856.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525857.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525858.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525859.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525860.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525861.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_0p8_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525862.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525863.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525864.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525865.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525866.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525867.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525868.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_10p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525869.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1000_MH4_150_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525870.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1000_MH4_250_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525871.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525872.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1000_MH4_500_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525873.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1200_MH4_150_MH2_1200_MHC_1200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525874.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1200_MH4_250_MH2_1200_MHC_1200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525875.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1200_MH4_350_MH2_1200_MHC_1200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525876.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1200_MH4_500_MH2_1200_MHC_1200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525877.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1400_MH4_150_MH2_1400_MHC_1400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525878.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1400_MH4_250_MH2_1400_MHC_1400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525879.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1400_MH4_350_MH2_1400_MHC_1400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525880.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1400_MH4_450_MH2_1400_MHC_1400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525881.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1600_MH4_150_MH2_1600_MHC_1600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525882.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1600_MH4_250_MH2_1600_MHC_1600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525883.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_1600_MH4_350_MH2_1600_MHC_1600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525884.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_200_MH4_100_MH2_200_MHC_200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525885.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_200_MH4_150_MH2_200_MHC_200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525886.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_200_MH4_200_MH2_200_MHC_200_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525887.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_300_MH4_100_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525888.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525889.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_300_MH4_200_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525890.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525891.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_100_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525892.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_150_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525893.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_200_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525894.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_250_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525895.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_300_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525896.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_350_MH2_400_MHC_400_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525897.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525898.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_500_MH4_200_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525899.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_500_MH4_250_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525900.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_500_MH4_300_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525901.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_500_MH4_350_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525902.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525903.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525904.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525905.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525906.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525907.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525908.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525909.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525910.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_150_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525911.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_200_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525912.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_250_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525913.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_300_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525914.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_350_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525915.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_700_MH4_400_MH2_700_MHC_700_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525916.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_800_MH4_150_MH2_800_MHC_800_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525917.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_800_MH4_250_MH2_800_MHC_800_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525918.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_800_MH4_300_MH2_800_MHC_800_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525919.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_800_MH4_350_MH2_800_MHC_800_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525920.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_800_MH4_500_MH2_800_MHC_800_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525921.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_150_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525922.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_200_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525923.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_300_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525924.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_350_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525925.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_400_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525926.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p0_mXd_10_MH3_900_MH4_500_MH2_900_MHC_900_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525927.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525928.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525929.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525930.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525931.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525932.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525933.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525934.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525935.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525936.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_1p5_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525937.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525938.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525939.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525940.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525941.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525942.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525943.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525944.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_20p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525945.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525946.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525947.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525948.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525949.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525950.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525951.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525952.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525953.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525954.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525955.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_2p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525956.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525957.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525958.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525959.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525960.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525961.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525962.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525963.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_30p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525964.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525965.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525966.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525967.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525968.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525969.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525970.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525971.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_40p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525972.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525973.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525974.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525975.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525976.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525977.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525978.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525979.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525980.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525981.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525982.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_4p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525983.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525984.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525985.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525986.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525987.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525988.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525989.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525990.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525991.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_50p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525992.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525993.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525994.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525995.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525996.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525997.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525998.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11525999.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_6p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526000.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526001.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_300_MH4_250_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526002.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526003.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_100_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526004.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526005.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526006.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_250_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526007.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_300_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526008.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_350_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526009.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_400_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526010.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p35_tanb_8p0_mXd_10_MH3_600_MH4_500_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526011.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p3_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526012.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p3_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526013.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p3_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526014.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p4_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526015.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p4_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526016.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p4_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526017.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p5_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526018.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p5_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526019.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p6_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526020.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p6_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526021.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p6_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526022.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_0p5_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526023.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526024.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_1p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526025.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526026.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526027.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_1p5_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526028.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_2p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526029.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_4p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526030.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p7_tanb_8p0_mXd_10_MH3_300_MH4_150_MH2_300_MHC_300_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526031.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p8_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526032.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p8_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526033.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p8_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526034.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p9_tanb_1p0_mXd_10_MH3_1000_MH4_350_MH2_1000_MHC_1000_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526035.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p9_tanb_1p0_mXd_10_MH3_500_MH4_150_MH2_500_MHC_500_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526036.
+gridpack_path 
+
+
+===============================
+Submitting jobs for #2HDMa_gg_sinp_0p9_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz
+===============================
+
+Submitting job(s).
+1 job(s) submitted to cluster 11526037.
+Total number of jobs:  200

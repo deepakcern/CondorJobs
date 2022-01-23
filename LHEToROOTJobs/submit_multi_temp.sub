@@ -1,0 +1,17 @@
+universe = vanilla
+request_memory = 8192
+executable = runLHEJobs.sh 
+should_transfer_files = YES
+output = output/condor.$(Cluster).$(Process).out
+error = error/condor.$(Cluster).$(Process).err
+log = log/condor.$(Cluster).$(Process).log
+transfer_input_files = ./cmssw_setup.sh,./sandbox-CMSSW_9_3_8-668d718.tar.bz2,./ExRootAnalysis_V1.1.5.tar.gz 
+
+on_exit_remove = (ExitBySignal == False) && (ExitCode == 0)
+on_exit_hold = ( (ExitBySignal == True) || (ExitCode != 0) )
+on_exit_hold_reason = strcat("Job held by ON_EXIT_HOLD due to ",ifThenElse((ExitBySignal == True), "exit by signal",strcat("exit code ",ExitCode)), ".")
+periodic_release =  (NumJobStarts < 5) && ((CurrentTime - EnteredCurrentStatus) > (60*60))
+
+arguments = 2HDMa_gg_sinp_0p9_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600_slc6_amd64_gcc630_CMSSW_9_3_8_tarball.tar.xz 2HDMa_gg_sinp_0p9_tanb_1p0_mXd_10_MH3_600_MH4_200_MH2_600_MHC_600.root  
+
+queue
